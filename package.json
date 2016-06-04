@@ -1,0 +1,17 @@
+{
+  "name": "hassaan",
+  "version": "0.0.1",
+  "description": "First Server With android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Has"
+  ],
+  "author": "Hassaan",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "heroku": "~0.2.0"
+  }
+}
